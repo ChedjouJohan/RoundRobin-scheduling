@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1731079175 source:/home/senri/Desktop/Johantransfert/Ecole/SE/Unit test 1/main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+
